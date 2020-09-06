@@ -22,10 +22,7 @@ h2 {
     text-align: center;
     border-bottom: 2px solid rgb(85, 10, 10);
 }
-main{
-    color: aliceblue;
-    
-}
+
 
 header, main, footer {
     margin: 1.25rem auto;
